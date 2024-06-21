@@ -1,4 +1,4 @@
 # Proj-1
-Print("the proj is not ready 2 min")
+Print("the proj will be  ready 2 min")
 
 
